@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brojure-proposal/static/css/main.62917cc2.css",
+    "main.js": "/brojure-proposal/static/js/main.7d6819b3.js",
+    "static/js/453.c6f18546.chunk.js": "/brojure-proposal/static/js/453.c6f18546.chunk.js",
+    "static/media/video.jpg": "/brojure-proposal/static/media/video.af3b799b952c2e7c1b4b.jpg",
+    "index.html": "/brojure-proposal/index.html",
+    "main.62917cc2.css.map": "/brojure-proposal/static/css/main.62917cc2.css.map",
+    "main.7d6819b3.js.map": "/brojure-proposal/static/js/main.7d6819b3.js.map",
+    "453.c6f18546.chunk.js.map": "/brojure-proposal/static/js/453.c6f18546.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62917cc2.css",
+    "static/js/main.7d6819b3.js"
+  ]
+}
